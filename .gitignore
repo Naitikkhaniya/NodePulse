@@ -1,0 +1,21 @@
+# Docker
+*.log
+
+# Grafana
+grafana-data/
+
+# Loki
+loki-data/
+
+# Prometheus
+prometheus-data/
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
